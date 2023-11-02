@@ -1,6 +1,7 @@
 # Tauri + Yew
 
 This template should help get you started developing with Tauri and Yew.
+It works well about Japanese.
 
 ## Recommended IDE Setup
 
@@ -10,3 +11,5 @@ This template should help get you started developing with Tauri and Yew.
 
 ```create-tauri-app``` で cargo/yew を選択できる。
 yewを選択すれば、WebAssembly を利用してフロントの開発ができる。
+
+WebView を利用するので日本語も問題なさそう。
